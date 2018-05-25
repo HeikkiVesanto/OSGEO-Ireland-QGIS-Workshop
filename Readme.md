@@ -216,9 +216,14 @@ Turn on the atlas preview, from Atlas> Preview.
 
 We can also add a few more features.
 
-Like a title naming the winners.
+Like a title:
+All Ireland Senior Football Champion
 
-Export out at png images.
+And a lable naming the winners.
+Total wins: [% "Total_Wins" %]
+[% "Winner" %] - [% "Year" %]
+
+Export out as png images.
 
 Creating the gif.
 
@@ -226,3 +231,31 @@ sudo apt-get update
 sudo apt-get install imagemagick
 
 convert *.png -layers OptimizePlus -loop 0 -set delay 80 gaa_winners.gif
+
+If you have time:
+
+Centroid of winners:
+New rule:
+"Year" = attribute(  @atlas_feature , 'Year')
+
+Geometry generator, point output:
+make_point( "Centroid_x" , "Centroid_y")
+
+Centre of champions legend.
+
+Label of number of wins:
+Add a point geometry generator to existing symbology:
+
+case when
+ num_geometries( $geometry) = 1
+ then  point_on_surface( $geometry)
+else centroid( $geometry)
+end
+
+Marker - Font marker
+Total_wins as symbol.
+
+Texture in background:
+
+Composition, Page settings, Page background, Raster image fill.
+\Created\noise.png
