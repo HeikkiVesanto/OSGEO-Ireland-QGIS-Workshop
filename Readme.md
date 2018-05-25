@@ -78,7 +78,7 @@ Let's symbolise the joined data.
 
 Open up the properties for the Small Areas layer by right clicking on it in the layers panel and choosing "Properties".
 
-Choose the "Style" tab.m,
+Choose the "Style" tab,
 
 From the drop-down list in the top left choose "Graduated".
 
@@ -104,7 +104,7 @@ Lets return to the Print Composer. It is probably still open behind the regular 
 
 If not you can re-open it from: Project> Print Composers> Composer 1
 
-You can scroll through the 
+You can scroll through the admin councils using the arrow buttons.
 
 Looking better.
 
@@ -134,7 +134,7 @@ The ENGLISH column conatins the English name of the local authority.
 
 Cycle through a couple of maps to check if it is working.
 
-Looking great, although it would be a bit clearer if only the council in question is visible.
+Looking great, although it would be a bit clearer if only the council in question was visible.
 
 The easiest way to do this is to create a new symbology that masks out the other councils.
 
@@ -213,6 +213,8 @@ Add in a copyright statement:
 "© OpenStreetMap contributors"
 
 Turn on the atlas preview, from Atlas> Preview.
+
+Check to see if it is working by cycling through a few years.
 
 We can also add a few more features.
 
