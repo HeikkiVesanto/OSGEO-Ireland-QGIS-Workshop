@@ -2494,7 +2494,7 @@ def my_form_open(dialog, layer, feature):
         <ymax>55.44690105833009852</ymax>
       </extent>
       <id>Admin_Counties_Generalised_20m__OSi_National_Boundaries20180427125510339</id>
-      <datasource>../Data/CSO_Census_2016/Admin_Counties_Generalised_20m__OSi_National_Boundaries.shp</datasource>
+      <datasource>./Data/CSO_Census_2016/Admin_Counties_Generalised_20m__OSi_National_Boundaries.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -2920,7 +2920,7 @@ def my_form_open(dialog, layer, feature):
         <ymax>55.44690105833009852</ymax>
       </extent>
       <id>Admin_Counties_Generalised_20m__OSi_National_Boundaries_copy20180505141543271</id>
-      <datasource>../Data/CSO_Census_2016/Admin_Counties_Generalised_20m__OSi_National_Boundaries.shp</datasource>
+      <datasource>./Data/CSO_Census_2016/Admin_Counties_Generalised_20m__OSi_National_Boundaries.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -3222,7 +3222,7 @@ def my_form_open(dialog, layer, feature):
         <ymax>55.44690105833009852</ymax>
       </extent>
       <id>Admin_Counties_Generalised_20m__OSi_National_Boundaries_copy20180507185436506</id>
-      <datasource>../Data/CSO_Census_2016/Admin_Counties_Generalised_20m__OSi_National_Boundaries.shp</datasource>
+      <datasource>./Data/CSO_Census_2016/Admin_Counties_Generalised_20m__OSi_National_Boundaries.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -3582,7 +3582,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer minimumScale="0" maximumScale="1e+08" geometry="No geometry" type="vector" hasScaleBasedVisibilityFlag="0">
       <id>AllIrelandSeniorFootballChampions20180510220505365</id>
-      <datasource>../Data/Wikipedia/AllIrelandSeniorFootballChampions.csv</datasource>
+      <datasource>./Data/Wikipedia/AllIrelandSeniorFootballChampions.csv</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -3671,7 +3671,7 @@ def my_form_open(dialog, layer, feature):
         <ymax>417192</ymax>
       </extent>
       <id>NaturalEarthIreland_Cities_5e84c6c6_6b08_445e_86c1_3cc0bd2bb85e</id>
-      <datasource>../Data/NaturalEarthIreland.gpkg|layername=Cities</datasource>
+      <datasource>./Data/NaturalEarthIreland.gpkg|layername=Cities</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -3954,7 +3954,7 @@ def my_form_open(dialog, layer, feature):
         <ymax>460136</ymax>
       </extent>
       <id>NaturalEarthIreland_Countries_11f1e04c_03c3_47f3_a3d2_bbdbd2d2311d</id>
-      <datasource>../Data/NaturalEarthIreland.gpkg|layername=Countries</datasource>
+      <datasource>./Data/NaturalEarthIreland.gpkg|layername=Countries</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -4285,7 +4285,7 @@ def my_form_open(dialog, layer, feature):
         <ymax>438868</ymax>
       </extent>
       <id>NaturalEarthIreland_Railroads_132b3e62_edd8_4dd5_a092_4988d680b1bf</id>
-      <datasource>../Data/NaturalEarthIreland.gpkg|layername=Railroads</datasource>
+      <datasource>./Data/NaturalEarthIreland.gpkg|layername=Railroads</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -4502,7 +4502,7 @@ def my_form_open(dialog, layer, feature):
         <ymax>437450</ymax>
       </extent>
       <id>NaturalEarthIreland_Rivers_01f2096b_8583_478b_8d35_30c46e8a380a</id>
-      <datasource>../Data/NaturalEarthIreland.gpkg|layername=Rivers</datasource>
+      <datasource>./Data/NaturalEarthIreland.gpkg|layername=Rivers</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -4685,7 +4685,7 @@ def my_form_open(dialog, layer, feature):
         <ymax>442541.12673396797617897</ymax>
       </extent>
       <id>NaturalEarthIreland_Roads_bbb7208c_0662_40ea_b4e5_4c45f9fb542e</id>
-      <datasource>../Data/NaturalEarthIreland.gpkg|layername=Roads</datasource>
+      <datasource>./Data/NaturalEarthIreland.gpkg|layername=Roads</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -5066,7 +5066,7 @@ def my_form_open(dialog, layer, feature):
         <ymax>422162</ymax>
       </extent>
       <id>NaturalEarthIreland_Urban_Areas_7156e4ac_206c_46da_adc0_7fcb16e10bb9</id>
-      <datasource>../Data/NaturalEarthIreland.gpkg|layername=Urban_Areas</datasource>
+      <datasource>./Data/NaturalEarthIreland.gpkg|layername=Urban_Areas</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -5213,7 +5213,7 @@ def my_form_open(dialog, layer, feature):
         <ymax>55.44657677158819808</ymax>
       </extent>
       <id>Small_Areas__Generalised_20m__OSi_National_Boundaries20180505112200725</id>
-      <datasource>../Data/CSO_Census_2016/Small_Areas__Generalised_20m__OSi_National_Boundaries.shp</datasource>
+      <datasource>./Data/CSO_Census_2016/Small_Areas__Generalised_20m__OSi_National_Boundaries.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -6107,7 +6107,7 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer minimumScale="0" maximumScale="1e+08" geometry="No geometry" type="vector" hasScaleBasedVisibilityFlag="0">
       <id>Vacant_Housing_Data_201620180505112245424</id>
-      <datasource>file:../Data/CSO_Census_2016/Vacant_Housing_Data_2016.csv?type=csv&amp;trimFields=Yes&amp;geomType=none&amp;subsetIndex=no&amp;watchFile=no</datasource>
+      <datasource>file:./Data/CSO_Census_2016/Vacant_Housing_Data_2016.csv?type=csv&amp;trimFields=Yes&amp;geomType=none&amp;subsetIndex=no&amp;watchFile=no</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -6472,7 +6472,7 @@ def my_form_open(dialog, layer, feature):
         <ymax>55.43529740000000317</ymax>
       </extent>
       <id>counties20180510220452306</id>
-      <datasource>../Data/Townlands_ie/counties.shp</datasource>
+      <datasource>./Data/Townlands_ie/counties.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
